@@ -36,3 +36,9 @@ const myFunction = function (){ //function object
 }
 
 console.log(typeof myFunction);
+
+//*************************************************************************************************************
+
+//memory
+
+//Stack(primitives)(copy) => changes into reference value , Heap (Non-primitives) (reference) => changes into actual value
